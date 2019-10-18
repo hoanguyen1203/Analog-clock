@@ -34,7 +34,7 @@ Open folder package.json add under line "test":
 
 ## Preview how it work
 
-![Analog clock!](https://github.com/hoanguyen1203/Dribbble-1/blob/master/analog-clock.gif)
+![Analog clock!](https://github.com/hoanguyen1203/Analog-clock/blob/master/analog-clock.gif))
 
 
 ## License
