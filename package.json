@@ -1,0 +1,24 @@
+{
+  "name": "analog-clock",
+  "version": "1.0.0",
+  "description": "Analog clock working like real life, use HTML, CSS and JavaScript.",
+  "main": "script.js",
+  "dependencies": {
+    "serve": "^11.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoanguyen1203/Analog-clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoanguyen1203/Analog-clock/issues"
+  },
+  "homepage": "https://github.com/hoanguyen1203/Analog-clock#readme"
+}
